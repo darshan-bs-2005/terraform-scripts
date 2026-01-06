@@ -1,0 +1,5 @@
+ami = "ami-0ecb62995f68bb549"
+instance_type = "t2.micro"
+key_name = "cloud"
+subnet_id = "subnet-0605436031565ad5f"
+tag = "terraform-Instance"
